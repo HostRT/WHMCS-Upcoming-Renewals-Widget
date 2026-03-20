@@ -86,6 +86,6 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 If this widget saves you time, please consider giving it a ⭐ on GitHub — it helps others find it!
 
 Made with ❤️ for the WHMCS community.
-```
+
 
 
